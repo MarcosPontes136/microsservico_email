@@ -1,0 +1,9 @@
+com\microsservico_email\configs\RabbitMQConfig.class
+com\microsservico_email\enums\StatusEmail.class
+com\microsservico_email\Controller\EmailController.class
+com\microsservico_email\dto\EmailDTO.class
+com\microsservico_email\MicrosservicoEmailApplication.class
+com\microsservico_email\models\EmailModel.class
+com\microsservico_email\consumers\EmailConsumers.class
+com\microsservico_email\repositories\EmailRepository.class
+com\microsservico_email\Service\EmailService.class
